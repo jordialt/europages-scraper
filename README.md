@@ -6,7 +6,7 @@ This project is a modular and scalable web scraping pipeline built in Python. It
 
 ## 🚀 Tech Stack
 
-* **Python 3.10+**
+* **Python 3.12+**
 * **Selenium:** For all browser automation, navigation, and page interaction.
 * **BeautifulSoup4:** Used for parsing HTML content.
 * **Pandas:** For structuring the final data and exporting to CSV.
@@ -19,7 +19,7 @@ This project is a modular and scalable web scraping pipeline built in Python. It
 
 1.  **Clone this repository:**
     ```bash
-    git clone [https://github.com/jordialt/europages-scraper.git](https://github.com/jordialt/europages-scraper.git)
+    git clone https://github.com/jordialt/europages-scraper.git
     cd europages-scraper
     ```
 
